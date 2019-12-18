@@ -39,9 +39,9 @@
 
 #functions and variables
 
-# def cheese_and_crackers(cheese,crackers):
-#     print "Your cheese count is %d and crackers count is %d." % (cheese, crackers)
-# cheese_and_crackers(20,30)
+def cheese_and_crackers(cheese,crackers):
+    print "Your cheese count is %d and crackers count is %d." % (cheese, crackers)
+cheese_and_crackers(20,30)
 
 # print "OR,we can just use variable from our srript:"
 # amount_of_cheese = 10
